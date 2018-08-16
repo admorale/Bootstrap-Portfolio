@@ -144,6 +144,37 @@ hr {
     display: block;
     clear: both;
 }
+form, form-control {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 0%;
+    line-height: normal;
+    padding: 0px;
+    width: 100%
+}
+textarea {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 0%;
+    line-height: normal;
+    padding: 0px;
+    width: 95%;
+    max-width: 960px;
+    height: 250px;
+    margin-left: 2.5%;
+    resize: none;
+}
+.input1 {
+    font-size: 11px;
+    height: 15px;
+    width: 100%;
+    border-radius: 0;
+    padding: 2.5px;
+}
 .footer {
     width: 100%;
     height: 36px;
