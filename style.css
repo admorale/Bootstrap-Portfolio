@@ -154,7 +154,7 @@ form, form-control {
     padding: 0px;
     width: 100%
 }
-textarea {
+.textarea {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
     margin-left: 2.5%;
